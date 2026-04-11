@@ -78,7 +78,7 @@ https://GitFolderDownloader.github.io/api/?url=https://github.com/user/repo/tree
 
 ## 🧩 Installation (Chrome)
 
-1. [download](https://GitFolderDownloader.github.io/api/?url=) this
+1. [download](https://gitfolderdownloader.github.io/api/?url=https%3A%2F%2Fgithub.com%2FGitFolderDownloader%2FGitFolderDownloader-Download-Button&name=GitFolderDownloader-Download-Button)
 2. Open Chrome and go to:
 
    ```
