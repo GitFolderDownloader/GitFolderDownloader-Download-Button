@@ -118,4 +118,4 @@ GPL 3 License – free to use, modify, and distribute.
 ## ⭐ Credits
 
 - **[GitFolderDownloader Wiki](https://GitFolderDownloader.github.io/wiki/)**
-- **[MicroResearch Corporation](https://MicroResearch-Corporation.github.io)**
+- **[MainRoute Core](https://mainroute-core.github.io)**
