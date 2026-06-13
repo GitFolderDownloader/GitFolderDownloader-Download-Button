@@ -91,7 +91,7 @@ https://GitFolderDownloader.github.io/api/?url=https://github.com/user/repo/tree
 
 ## 🧩 Installation (FireFox)
 
-1. [Install](https://addons.mozilla.org/en-US/firefox/addon/gfd-down-button/)
+- [Install](https://addons.mozilla.org/en-US/firefox/addon/gfd-down-button/)
 
 ---
 
@@ -112,10 +112,3 @@ If GitHub UI changes, updates may be required to selectors.
 ## 📜 License
 
 GPL 3 License – free to use, modify, and distribute.
-
----
-
-## ⭐ Credits
-
-- **[GitFolderDownloader Wiki](https://GitFolderDownloader.github.io/wiki/)**
-- **[MainRoute Core](https://mainroute-core.github.io)**
