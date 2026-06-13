@@ -3,6 +3,7 @@
   "name": "GitFolderDownloader Download Button",
   "version": "1.0.0",
   "description": "Adds a Git Folder Downloader Api Download button to GitHub repo and directory menus.",
+  "author": "Pro Bandey",
   "homepage_url": "https://GitFolderDownloader.github.io",
 
   "content_scripts": [
